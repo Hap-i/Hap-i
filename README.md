@@ -9,7 +9,7 @@ Experienced software engineer with a passion for developing innovative programs 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://MyPortfolio.com)
 * ✉️  You can contact me at [suvendusekharsahoo5@gmail.com](mailto:suvendusekharsahoo5@gmail.com)
-* 🚀  I'm currently working on [Project-Shinobi](https://github.com/Hap-i/Project-Shinobi)
+* 🚀  I'm currently working on [h-api](https://github.com/Hap-i/h-api)
 * 🧠  I'm learning Node & React
 * 🤝  I'm open to collaborating on any python or node projects
 
