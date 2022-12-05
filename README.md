@@ -7,7 +7,7 @@ Software Engineer
 Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://MyPortfolio.com)
+* 🖥️  See my portfolio at [MyPortfolio]([http://MyPortfolio.com](https://suvendusekharsahoo52.showwcase.com/))
 * ✉️  You can contact me at [suvendusekharsahoo5@gmail.com](mailto:suvendusekharsahoo5@gmail.com)
 * 🚀  I'm currently working on [Zisroul](https://github.com/Zisroul/Zisroul)
 * 🧠  I'm learning Node & React
