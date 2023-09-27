@@ -9,7 +9,7 @@ Experienced software engineer with a passion for developing innovative programs 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](https://suvendusekharsahoo52.showwcase.com/)
 * ✉️  You can contact me at [suvendusekharsahoo5@gmail.com](mailto:suvendusekharsahoo5@gmail.com)
-* 🚀  I'm currently working on [Zisroul](https://github.com/Zisroul/Zisroul)
+* 🚀  I'm currently working on [Fiverr Clone](https://github.com/Hap-i/fiverr-clone-ui)
 * 🧠  I'm learning Node & React
 * 🤝  I'm open to collaborating on any python or node projects
 
